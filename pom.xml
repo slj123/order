@@ -3,7 +3,7 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.service</groupId>
+    <groupId>com.huaweiair</groupId>
     <artifactId>order</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -16,7 +16,7 @@
         <cse.version>2.2.7</cse.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <demo.main>com.service.order.OrderApplication</demo.main>
+        <demo.main>com.huaweiair.order.OrderApplication</demo.main>
     </properties>
 
     <dependencyManagement>
